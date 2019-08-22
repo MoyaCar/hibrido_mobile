@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "89559752600",
+    "firebase_url": "https://hibrido-732ce.firebaseio.com",
+    "project_id": "hibrido-732ce",
+    "storage_bucket": "hibrido-732ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:89559752600:android:c811332edc303e94",
+        "android_client_info": {
+          "package_name": "com.example.hybrid_mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "89559752600-9fa9rsh350gskq6jm0q2dc0g01d54t1j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIsiKvcVeezpJnby1qqS5oqYcXWoxFXo0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "89559752600-9fa9rsh350gskq6jm0q2dc0g01d54t1j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
